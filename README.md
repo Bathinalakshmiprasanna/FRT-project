@@ -20,7 +20,9 @@ This is a web based application developed for lifestyle related telugu based web
 ## Screenshots
 
 
+### Home -
 
+![fig1](https://user-images.githubusercontent.com/116338498/208364303-7e21c522-bae9-4632-afcb-459556f045a2.png)
 
 
    
@@ -28,14 +30,14 @@ This is a web based application developed for lifestyle related telugu based web
 ### About Us -
 
 
+![fig2](https://user-images.githubusercontent.com/116338498/208364441-109c81f7-862d-4fff-9ffc-44d336cdd139.png)
 
 
 
 
 ### Album
 
-
-
+![fig3](https://user-images.githubusercontent.com/116338498/208364547-4fa362a6-5f03-4272-acc3-11946ebf41e5.png)
 
 
 
@@ -47,6 +49,7 @@ This is a web based application developed for lifestyle related telugu based web
 ### Artists
 
 
+![fig4](https://user-images.githubusercontent.com/116338498/208364685-7bef8557-46b6-436f-8474-ca7ab3d850d4.png)
 
 
 
@@ -57,6 +60,7 @@ This is a web based application developed for lifestyle related telugu based web
 
 ### Gallery
 
+![fig5](https://user-images.githubusercontent.com/116338498/208364826-d4b3ce90-10a9-461c-967d-f11ff5b1feca.png)
 
 
 
@@ -67,6 +71,7 @@ This is a web based application developed for lifestyle related telugu based web
 ### Contact
 
 
+![fig6](https://user-images.githubusercontent.com/116338498/208364936-edf209d4-3500-4d3c-8071-070da5269765.png)
 
 
 
@@ -77,6 +82,7 @@ This is a web based application developed for lifestyle related telugu based web
 
 ### Healthbot
 
+![fig7](https://user-images.githubusercontent.com/116338498/208365060-81f342b4-d282-402f-ad35-b5638a7d15cd.png)
 
 
 
@@ -89,6 +95,7 @@ This is a web based application developed for lifestyle related telugu based web
 ### Azure static web apps
 
 
+![fig8](https://user-images.githubusercontent.com/116338498/208365216-43079e1a-b790-4834-9a83-6a7cb065b1c8.png)
 
 
 
@@ -99,6 +106,7 @@ This is a web based application developed for lifestyle related telugu based web
 ### Azure healthbot
 
 
+![fig9](https://user-images.githubusercontent.com/116338498/208365316-16be8689-b15d-46a9-9756-ff69601cc739.png)
 
 
 
