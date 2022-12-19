@@ -7,6 +7,8 @@ This is a web based application developed for lifestyle related telugu based web
 
 *Project Link* - https://witty-sea-0a2b8b500.2.azurestaticapps.net
 
+*Project demo video link*  - 
+
 
 ## Features and Functionalities 😃
 
